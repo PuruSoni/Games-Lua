@@ -1,7 +1,8 @@
 # Games-Lua
 
 ## Requirements ->
-[Lua - programming language](https://www.lua.org/download.html) \n
+[Lua - programming language](https://www.lua.org/download.html)
+
 [LÖVE_2D](https://love2d.org)
 
 ## Process ->
